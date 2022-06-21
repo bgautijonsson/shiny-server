@@ -1,0 +1,14 @@
+name: sveitarfelog_maelabord
+title: sveitarfelog_maelabord
+username:
+account: bgautijonsson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6326438
+bundleId: 6028006
+url: https://bggj.shinyapps.io/sveitarfelog_maelabord/
+when: 1655824560.80809
+lastSyncTime: 1655824560.80809
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|README.md
